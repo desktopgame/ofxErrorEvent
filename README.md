@@ -57,3 +57,5 @@ Version history
 ### Version 0.1 (2020/03/11):
 first release
 
+### Version 0.2 (2020/03/11):
+minor fix.
