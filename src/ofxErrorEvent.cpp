@@ -16,7 +16,7 @@ EventArgs::EventArgs()
 }
 std::string EventArgs::toString() const {
 	std::stringstream ss;
-	ss << "source=" << source << " type=" << type << " id=" << id << " serverity=" << severity << " length=" << length << " message" << message;
+	ss << "source=" << source << " type=" << type << " id=" << id << " serverity=" << severity << " length=" << length << " message=" << message;
 	return ss.str();
 }
 // Handler
