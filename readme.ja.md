@@ -35,11 +35,11 @@ MIT License
 
 Installation
 ------------
-this folder into the `openFrameworks/addons/` folder.
+このフォルダを `openFrameworks/addons/` に置いてください。
 
 Dependencies
 ------------
-have no dependencies.
+依存関係はありません。
 
 Compatibility
 ------------
@@ -48,12 +48,12 @@ Compatibility
 
 Known issues
 ------------
-known problem is none.
+現在のところ、既知の不具合はありません。
 
 Version history
 ------------
 
 
 ### Version 0.1 (2020/03/11):
-first release
+最初のリリース。
 
